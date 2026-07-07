@@ -1,5 +1,5 @@
-const API_BASE_URL = 'http://localhost:8000';
-
+// const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = import.meta.env.VITE_API_URL;
 export const apiService = {
   async chat(message, history = []) {
     const response = await fetch(`${API_BASE_URL}/chat/`, {
