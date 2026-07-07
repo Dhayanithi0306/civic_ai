@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana",
+    "description": "A national public health insurance fund of the Government of India that aims to provide free access to health insurance coverage for low income earners in the country.",
+    "eligibility": "Low-income families identified in the SECC 2011 database. Lack of housing, destitutes, manual scavenger families, primitive tribal groups.",
+    "documents_required": ["Aadhaar Card", "Ration Card", "Income Certificate"],
+    "benefits": "Health insurance cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization.",
+    "category": "Healthcare",
+    "state": "National",
+    "keywords": ["health", "insurance", "medical", "hospitalization", "poor", "BPL"]
+  },
+  {
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "description": "An initiative by the government of India in which all farmers will get up to ₹6,000 per year as minimum income support.",
+    "eligibility": "Small and marginal farmers holding cultivable land up to 2 hectares.",
+    "documents_required": ["Aadhaar Card", "Bank Account Details", "Land Holding Papers"],
+    "benefits": "₹6,000 per year transferred in three equal installments of ₹2,000 directly into the bank accounts.",
+    "category": "Agriculture",
+    "state": "National",
+    "keywords": ["farmer", "agriculture", "income", "support", "land", "cultivation"]
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana (PMAY)",
+    "description": "An initiative by Government of India in which affordable housing will be provided to the urban poor with a target of building 20 million affordable houses.",
+    "eligibility": "Economically Weaker Section (EWS), Low Income Group (LIG), and Middle Income Group (MIG). Must not own a pucca house.",
+    "documents_required": ["Aadhaar Card", "Income Proof", "Address Proof", "Bank Statement"],
+    "benefits": "Subsidy on home loan interest rates up to 6.5%.",
+    "category": "Housing",
+    "state": "National",
+    "keywords": ["house", "home", "loan", "subsidy", "urban", "poor", "shelter"]
+  },
+  {
+    "name": "Sukanya Samriddhi Yojana",
+    "description": "A savings scheme targeted at the parents of girl children, encouraging them to build a fund for the future education and marriage of their female child.",
+    "eligibility": "Parents or legal guardians of a girl child. The child must be 10 years or younger at the time of account opening.",
+    "documents_required": ["Birth Certificate of Girl Child", "Identity Proof of Parent", "Address Proof of Parent"],
+    "benefits": "High interest rate, tax benefits under Section 80C, maturity on completion of 21 years from account opening.",
+    "category": "Women Empowerment",
+    "state": "National",
+    "keywords": ["girl", "child", "savings", "education", "marriage", "tax", "interest"]
+  },
+  {
+    "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "description": "A scheme launched by the Hon'ble Prime Minister to provide loans up to 10 lakh to the non-corporate, non-farm small/micro enterprises.",
+    "eligibility": "Any Indian citizen who has a business plan for a non-farm sector income generating activity such as manufacturing, processing, trading or service sector and whose credit need is less than ₹10 lakh.",
+    "documents_required": ["Identity Proof", "Address Proof", "Business Plan", "Project Report", "Recent Photographs"],
+    "benefits": "Loans classified as Shishu (up to 50k), Kishore (50k to 5L), and Tarun (5L to 10L) with competitive interest rates.",
+    "category": "MSME",
+    "state": "National",
+    "keywords": ["loan", "business", "enterprise", "micro", "small", "entrepreneur"]
+  },
+  {
+    "name": "National Means-cum-Merit Scholarship Scheme (NMMSS)",
+    "description": "A centrally sponsored scheme to award scholarships to meritorious students of economically weaker sections to arrest their drop out at class VIII.",
+    "eligibility": "Students studying in class IX in Government, Local Body and Government aided schools. Parental income from all sources should not exceed ₹3,50,000/- per annum.",
+    "documents_required": ["Income Certificate", "Caste Certificate (if applicable)", "Class VIII Marksheet", "Bank Account linked with Aadhaar"],
+    "benefits": "Scholarship of ₹12,000/- per annum (₹1000/- per month) from class IX to class XII.",
+    "category": "Education",
+    "state": "National",
+    "keywords": ["student", "school", "scholarship", "merit", "education", "poor"]
+  },
+  {
+    "name": "Atal Pension Yojana (APY)",
+    "description": "A pension scheme for citizens of India, primarily focused on the unorganized sector workers.",
+    "eligibility": "All citizens of India between 18-40 years of age having a savings bank account/post office savings bank account.",
+    "documents_required": ["Aadhaar Card", "Savings Bank Account Details", "Mobile Number"],
+    "benefits": "Guaranteed minimum monthly pension between ₹1,000 and ₹5,000 depending on the contribution after the age of 60 years.",
+    "category": "Pension",
+    "state": "National",
+    "keywords": ["pension", "old age", "retirement", "unorganized", "savings"]
+  },
+  {
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "description": "An Indian labour law and social security measure that aims to guarantee the 'right to work'.",
+    "eligibility": "Adult members of any rural household willing to do public work-related unskilled manual work.",
+    "documents_required": ["Aadhaar Card", "Voter ID", "Ration Card", "Bank Account Details", "Passport Size Photo"],
+    "benefits": "At least 100 days of guaranteed wage employment in a financial year to every rural household.",
+    "category": "Employment",
+    "state": "National",
+    "keywords": ["job", "work", "wage", "rural", "employment", "labour", "village"]
+  },
+  {
+    "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "description": "A one-year life insurance scheme renewable from year to year offering coverage for death due to any reason.",
+    "eligibility": "Available to people in the age group of 18 to 50 years having a bank account who give their consent to join / enable auto-debit.",
+    "documents_required": ["Aadhaar Card", "Bank Account Details"],
+    "benefits": "Life cover of Rs. 2 Lakh in case of death for any reason against a premium of Rs. 436/- per annum.",
+    "category": "Insurance",
+    "state": "National",
+    "keywords": ["life", "insurance", "death", "cover", "protection", "family"]
+  },
+  {
+    "name": "PM Vishwakarma Scheme",
+    "description": "A central sector scheme to support traditional artisans and craftspeople of rural and urban India.",
+    "eligibility": "An artisan or craftsperson working with hands and tools and engaged in one of the 18 family-based traditional trades. Minimum age 18 years.",
+    "documents_required": ["Aadhaar Card", "Mobile Number", "Bank Account Details", "Ration Card"],
+    "benefits": "PM Vishwakarma Certificate & ID card, collateral-free credit support up to ₹3 lakh, stipend of ₹500/day for skill training, toolkit incentive of ₹15,000.",
+    "category": "Employment",
+    "state": "National",
+    "keywords": ["artisan", "crafts", "skills", "tools", "credit", "training", "traditional"]
+  }
+]

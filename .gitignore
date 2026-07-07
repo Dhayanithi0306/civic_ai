@@ -1,0 +1,11 @@
+.env
+venv/
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
+.vscode/
+.idea/
+*.log
+backend/complaints.json
